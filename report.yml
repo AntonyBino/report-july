@@ -1,4 +1,4 @@
-name: John Doe
+dirname: John Doe
 age: 30
 city: New York
 is_student: true
@@ -11,3 +11,10 @@ grade:
     grade: Z+
     subject: Computer
     grade: Z+
+    grade: H
+  - subject: English
+    grade: H
+  - subject: Science
+    grade: H+
+    subject: Computer
+    grade: H+
